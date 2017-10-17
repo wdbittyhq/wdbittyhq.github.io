@@ -1,0 +1,193 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://wdbittyhq.github.io" resolutions="1x,2x" timestamp="1508220939760">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="239672437" ref="index"/>
+    <file name="iefonts_index.css" crc="3899172962" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="278381782" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="asset 6-crop-u1278.png" crc="224199945" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 6-crop-u1271.png" crc="446482029" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 6-crop-u536.png" crc="4073373264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 6-crop-u339.png" crc="431685228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="landing@2x-crop-u319.png" crc="3818128815" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="landing@2x-crop-u319_2x.png" crc="95192734" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="webpnet-gifmaker.gif" crc="4141205949" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="webpnet-gifmaker_2x.gif" crc="4141205949" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 4.png" crc="425108993" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 4_2x.png" crc="3831077022" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 7.png" crc="217952551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 7_2x.png" crc="245181149" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 9@2x.png" crc="3868712018" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 9@2x_2x.png" crc="11632700" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 10@2x496x391.png" crc="3846678758" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 10@2x_2x.png" crc="3846678758" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 11@2x-crop-u661.png" crc="26951341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 11@2x-crop-u661_2x.png" crc="3947304530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header – 2@2x-crop-u680.png" crc="3877242459" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header – 2@2x-crop-u680_2x.png" crc="303774963" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 1-crop-u696.png" crc="94406516" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 1-crop-u696_2x.png" crc="3771320076" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blue-crop-u704.png" crc="455484054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blue-crop-u704_2x.png" crc="1666013" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="df-crop-u711.png" crc="3782998291" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="df-crop-u711_2x.png" crc="295739881" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 10@2x-u726.png" crc="3999294315" ref="index"/>
+    <file name="asset 10@2x-u6472.png" crc="437025805" ref="index"/>
+    <file name="00d051439344995802189ddda2d-crop-u847.jpg" crc="152140539" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="31147343934499580220070f844-crop-u1155.jpg" crc="4048806884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31147343934499580220070f844-crop-u1155_2x.jpg" crc="84811749" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="df-crop-u1175.png" crc="3997028265" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="df-crop-u1175_2x.png" crc="499202056" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 15.png" crc="192100779" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 15_2x.png" crc="473968550" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 14-u835-3-fr.png" crc="3999766450" ref="index"/>
+    <file name="asset 14-u835-3-fr_2x.png" crc="4067855177" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="asset 11@2x-u1199.png" crc="261866415" ref="index"/>
+    <file name="asset 11@2x-u1199_2x.png" crc="4032359010" ref="index"/>
+    <file name="slide@2x.png" crc="3760480373" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slide@2x_2x.png" crc="351606884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 17.png" crc="63800938" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 17_2x.png" crc="503949721" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 4@2x-crop-u1291.png" crc="3779167246" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 4@2x-crop-u1291_2x.png" crc="347764212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c@2x.png" crc="360288225" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c@2x_2x.png" crc="4138876187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard 1.png" crc="4076298744" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard 1_2x.png" crc="49932434" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 20@2x.png" crc="76082540" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 20@2x_2x.png" crc="4099839111" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 8.png" crc="4069003314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 8_2x.png" crc="4263280071" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard 1127x127.png" crc="3976902325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard 1127x127_2x.png" crc="107316452" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 23@2x.png" crc="420164100" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 23@2x_2x.png" crc="4077461343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 24@2x.png" crc="4132918976" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 24@2x_2x.png" crc="3922972409" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 21-crop-u1414.png" crc="39111641" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4056616629" seo="true" mt="1508220823310" redirect="true"/>
+</manifest>
