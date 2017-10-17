@@ -1,4 +1,5 @@
-# Wdbitty HQ
+## ![Wdbitty HQ](https://raw.githubusercontent.com/wdbittyhq/wdbittyhq.github.io/master/icon.png)
+# Wdbitty HQ 
 >We Design Your Dream
 
 ## About us
